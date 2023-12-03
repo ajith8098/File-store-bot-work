@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6489443094:AAGgQQQHfqmH4AGgwBi_d9e--qi0br4AKaQ")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6489443094:AAHixSJfkSnhx8JvRxn-rFqcrOIpVUQWUQ8")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "23990433"))
